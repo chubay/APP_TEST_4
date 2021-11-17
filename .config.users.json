@@ -1,0 +1,47 @@
+{
+    "_": {
+        "editor": {
+            "view": {
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": "20",
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": false
+            }
+        },
+        "git": {
+            "user": {
+                "name": "chubay",
+                "email": "chubaytroll@gmail.com"
+            },
+            "workflow": {
+                "mode": "auto"
+            }
+        }
+    },
+    "admin": {
+        "editor": {
+            "view": {
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": 20,
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": true
+            }
+        }
+    },
+    "HUY": {
+        "editor": {
+            "view": {
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": 20,
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": true
+            }
+        }
+    }
+}
